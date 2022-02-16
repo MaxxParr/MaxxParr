@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxxParr
 - 
-- 📫 How to reach me maxrrcc@gmail.com or instagram: 1maaxx_ramos ...
+- 📫 How to reach me maxrrcc@gmail.com or instagram: maaxx_ramos ...
 
 <!---
 MaxxParr/MaxxParr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
